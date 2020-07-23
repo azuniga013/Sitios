@@ -3670,7 +3670,7 @@ body, .banner-area,
   color: #ffffff;
 }
 
-.advisor-item .social li.pinterest a {
+/*.advisor-item .social li.pinterest a {
   background-color: #bd081c;
   color: #ffffff;
 }
@@ -3680,8 +3680,15 @@ body, .banner-area,
   color: #ffffff;
 }
 
+
 .advisor-item .social li.linkedin a {
   background-color: #0077b5;
+  color: #ffffff;
+}
+*/
+
+.advisor-item .social li.instagram a {
+  background-color: #3f729b;
   color: #ffffff;
 }
 
@@ -3695,10 +3702,6 @@ body, .banner-area,
   color: #ffffff;
 }
 
-.advisor-item .social li.instagram a {
-  background-color: #3f729b;
-  color: #ffffff;
-}
 .advisor-items .advisor-item .social li a {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -5212,21 +5215,26 @@ body, .banner-area,
 .sidebar-item.social-sidebar li.twitter a {
   background: #1da1f2 none repeat scroll 0 0;
 }
+/*
 .sidebar-item.social-sidebar li.pinterest a {
   background: #bd081c none repeat scroll 0 0;
 }
+
 .sidebar-item.social-sidebar li.g-plus a {
   background: #db4437 none repeat scroll 0 0;
 }
 .sidebar-item.social-sidebar li.linkedin a {
   background: #0077b5 none repeat scroll 0 0;
 }
-.sidebar-item.social-sidebar li.whatsapp a {
-  background: #00bb2d none repeat scroll 0 0;
-}
+*/
 .sidebar-item.social-sidebar li.instagram a {
   background: #3f729b none repeat scroll 0 0;
 }
+
+.sidebar-item.social-sidebar li.whatsapp a {
+  background: #00bb2d none repeat scroll 0 0;
+}
+
 .sidebar-item.social-sidebar li.youtube a {
   background: #c4302b none repeat scroll 0 0;
 }
@@ -5326,12 +5334,15 @@ body, .banner-area,
 .blog-area.full-blog.single-blog .meta li.instagram a {
   background-color: #3f729b;
 }
+
 .blog-area.full-blog.single-blog .meta li.youtube a {
   background-color: #c4302b;
 }
+
 .blog-area.full-blog.single-blog .meta li.whatsapp a {
   background-color: #00bb2d;
 }
+
 .blog-area .item blockquote {
   background: #002147 none repeat scroll 0 0;
   border: medium none;
@@ -5897,7 +5908,7 @@ form img.loader {
 }
 
 .error-page-area li.whatsapp a {
-  background: #3b5998 none repeat scroll 0 0;
+  background: #00bb2d none repeat scroll 0 0;
 }
 
 .error-page-area li.instagram a {
