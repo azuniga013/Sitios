@@ -522,6 +522,24 @@ body {
   box-shadow: 0 15px 40px -5px rgba(0, 0, 0, 0.1);
 }
 
+.side2 {
+  position: fixed;
+  overflow-y: auto;
+  top: 0;
+  right: -16px;
+  width: 400px;
+  padding: 50px;
+  height: 100%;
+  display: block;
+  background-color: #ffffff;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  z-index: 9;
+  box-shadow: 0 15px 40px -5px rgba(0, 0, 0, 0.1);
+}
 .side.on {
   right: -16px;
 }
