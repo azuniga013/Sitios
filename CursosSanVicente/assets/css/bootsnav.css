@@ -725,6 +725,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   padding: 0;
   margin: 0;
   list-style: none;
+  display: flex;
+  justify-content: center;
 }
 
 .side .widget ul.link li a {
@@ -734,6 +736,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   letter-spacing: 1px;
   padding: 5px 0;
   text-transform: uppercase;
+  margin: 0 .75rem;
 }
 
 
