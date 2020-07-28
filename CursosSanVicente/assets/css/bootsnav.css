@@ -269,9 +269,11 @@ nav.navbar.attr-border .attr-nav {
 
 .bootsnav .side .widget.social li.facebook a {
   background: #3b5998 none repeat scroll 0 0;
-  display: inside;
 }
 
+.bootsnav .widget.social li.facebook a {
+  background: #3b5998 none repeat scroll 0 0;
+}
 .bootsnav .side .widget.social li.twitter a {
   background: #1da1f2 none repeat scroll 0 0;
 }
