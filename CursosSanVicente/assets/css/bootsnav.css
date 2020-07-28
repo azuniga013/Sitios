@@ -657,7 +657,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   width: 45px;
 }
 
-.navbar .side2 .widget.social2 li a {
+.nav .side2 .widget.social2 li a {
   color: #ffffff;
   display: inline-block;
   font-weight: 500;
