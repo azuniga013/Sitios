@@ -799,6 +799,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 
 
 .side2 .widget ul.link {
+  left: -10;
+  margin: 0 1.90rem;
   padding: 0;
   margin: 0;
   font-size: 50px;
