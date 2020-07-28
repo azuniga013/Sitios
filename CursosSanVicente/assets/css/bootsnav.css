@@ -736,6 +736,23 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   text-transform: uppercase;
 }
 
+
+
+.side2 .widget ul.link {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.side2 .widget ul.link li a {
+  color: #ffb606;
+  display: flex;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 5px 0;
+  text-transform: uppercase;
+}
+
 .color-yellow .side .widget ul.link li a {
   color: #ff9800;
 }
