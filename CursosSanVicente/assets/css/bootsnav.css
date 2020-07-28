@@ -796,10 +796,12 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 .side2 .widget ul.link {
   padding: 0;
   margin: 0;
+  font-size: 50px;
   list-style: flex;
 }
 
 .side2 .widget ul.link li a {
+  font-size: 50px;
   color: #ffb606;
   display: flex;
   font-weight: bold;
