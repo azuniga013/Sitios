@@ -523,7 +523,7 @@ body {
 }
 
 .side2 {
-  position: fixed;
+  position: none;
   overflow-y: auto;
   top: 0;
   right: -16px;
