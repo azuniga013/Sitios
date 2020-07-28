@@ -558,7 +558,7 @@ body {
   position: none;
   overflow-y: auto;
   top: 0;
-  right: -16px;
+  right: 0px;
   width: 100%;
   padding: 50px;
   height: 200px;
