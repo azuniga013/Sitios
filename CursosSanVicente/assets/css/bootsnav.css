@@ -628,6 +628,8 @@ body.on-side .body-overlay {
 
 .navbar .side2 .widget.social2 li {
   display: inline-block;
+  left: -10;
+  margin: 0 1.90rem;
 }
 
 .navbar .side .widget li a {
@@ -660,6 +662,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 
 .nav .side2 .widget.social2 li a {
   color: #ffffff;
+  left: -10;
+  margin: 0 1.90rem;
   display: inline-block;
   font-weight: 500;
   height: 45px;
@@ -795,6 +799,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 
 
 .side2 .widget ul.link {
+  left: -10;
+  margin: 0 1.90rem;
   padding: 0;
   margin: 0;
   font-size: 50px;
@@ -802,6 +808,8 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .side2 .widget ul.link li a {
+  left: -10;
+  margin: 0 1.90rem;
   font-size: 50px;
   color: #002147;
   display: flex;
@@ -2663,13 +2671,7 @@ body.wrap-nav-sidebar {
   height: auto !important;
 }
 
-
 nav > ul {
   display: flex;
   justify-content: center;
-}
-
-li {
-  left: -10;
-  margin: 0 1.90rem;
 }
