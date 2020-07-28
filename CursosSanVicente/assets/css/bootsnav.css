@@ -747,6 +747,19 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   list-style: flex;
 }
 
+.navbar .side .widget.social li a {
+  color: #ffffff;
+  display: inline-block;
+  font-weight: 500;
+  height: 45px;
+  line-height: 45px;
+  margin-right: 5px;
+  margin-top: 5px;
+  padding: 0;
+  text-align: center;
+  width: 45px;
+}
+
 .side2 .widget ul.link li a {
   color: #ffb606;
   display: flex;
