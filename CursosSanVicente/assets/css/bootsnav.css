@@ -554,6 +554,7 @@ body {
 }
 
 .side2 {
+  justify-content: center;
   position: none;
   overflow-y: auto;
   top: 0;
