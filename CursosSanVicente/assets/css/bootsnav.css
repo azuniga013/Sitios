@@ -2663,10 +2663,12 @@ body.wrap-nav-sidebar {
   height: auto !important;
 }
 
+
 nav > ul {
   display: flex;
   justify-content: center;
 }
+
 li {
   left: -10;
   margin: 0 1.90rem;
