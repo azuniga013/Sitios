@@ -558,7 +558,7 @@ body {
   overflow-y: auto;
   top: 0;
   right: -16px;
-  width: 600px;
+  width: 100%;
   padding: 50px;
   height: 200px;
   display: flex;
