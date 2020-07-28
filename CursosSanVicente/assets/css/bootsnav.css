@@ -771,7 +771,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .side .widget .title {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 .side .widget ul.link {
