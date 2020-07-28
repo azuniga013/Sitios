@@ -299,6 +299,37 @@ nav.navbar.attr-border .attr-nav {
   background: #ea4c89 none repeat scroll 0 0;
 }
 
+.bootsnav .side2 .widget.social2 li.facebook a {
+  background: #3b5998 none repeat scroll 0 0;
+}
+
+.bootsnav .widget.social2 li.facebook2 a {
+  background: #3b5998 none repeat scroll 0 0;
+}
+.bootsnav .side2 .widget.social2 li.twitter a {
+  background: #1da1f2 none repeat scroll 0 0;
+}
+
+.bootsnav .side2 .widget.social2 li.whatsapp a {
+  background: #00bb2d none repeat scroll 0 0;
+}
+
+
+.bootsnav .side2 .widget.social2 li.pinterest a {
+  background: #bd081c none repeat scroll 0 0;
+}
+
+.bootsnav .side2 .widget.social2 li.g-plus a {
+  background: #db4437 none repeat scroll 0 0;
+}
+
+.bootsnav .side2 .widget.social2 li.linkedin a {
+  background: #0077b5 none repeat scroll 0 0;
+}
+
+.bootsnav .side2 .widget.social2 li.dribbble a {
+  background: #ea4c89 none repeat scroll 0 0;
+}
 nav.navbar.attr-border.bootsnav.sticked .attr-nav {
   min-height: 80px;
 }
