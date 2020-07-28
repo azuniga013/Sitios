@@ -2607,3 +2607,11 @@ nav.bootsnav.navbar-full .navbar-toggle:hover span {
 body.wrap-nav-sidebar {
   height: auto !important;
 }
+
+nav > ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  margin: 0 .75rem;
+}
