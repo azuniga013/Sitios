@@ -558,7 +558,7 @@ body {
   position: none;
   overflow-y: auto;
   top: 0;
-  right: -10px;
+  right: 0px;
   width: 100%;
   padding: 50px;
   height: 200px;
@@ -2668,5 +2668,5 @@ nav > ul {
   justify-content: center;
 }
 li {
-  margin: 0 .75rem;
+  margin: 0;
 }
